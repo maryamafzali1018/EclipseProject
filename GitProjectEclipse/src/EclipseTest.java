@@ -10,5 +10,9 @@ public class EclipseTest {
 	public void methodA(){
 		//This is from remote repository
 	}
+	
+	public void methodB(){
+		
+	}
 
 }
