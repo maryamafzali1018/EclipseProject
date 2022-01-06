@@ -14,5 +14,12 @@ public class EclipseTest {
 	public void methodB(){
 		
 	}
+	
+	public void methodC() {
+		
+		//This is in maryam branch
+		
+	}
+	}
 
 }
