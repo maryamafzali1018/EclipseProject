@@ -6,5 +6,9 @@ public class EclipseTest {
 		//this is test
 
 	}
+	
+	public void methodA(){
+		//This is from remote repository
+	}
 
 }
